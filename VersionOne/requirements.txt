@@ -1,0 +1,8 @@
+asyncio
+asyncpg
+constants
+discord
+psutil
+pywin32
+utils
+WMI
